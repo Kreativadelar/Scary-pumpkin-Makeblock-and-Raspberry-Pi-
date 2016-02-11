@@ -1,4 +1,6 @@
-Instructions:
+See video here: https://youtu.be/c8q74OZ3534
+
+Instructions (Not done):
 
 Installation on Raspberry Pi
 
